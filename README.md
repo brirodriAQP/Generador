@@ -17,9 +17,12 @@
 
 ```
 
-git clone https://github.com/brirodriAQP/Generador;
-cd Generador;
-pythonn ccgen*
+git clone https://github.com/barba99/cc_checher ;
+cd cc_checher;
+python ccgen*
+```
+
+
 
 ## uso 
 
@@ -36,6 +39,8 @@ python ccgen*
 <!-- Contacts section end -->
         
         
+<div class="copyright">
             
+&copy; 2021 *Jorge Barba*. *``Todos los derechos reservados``.*
       
 </div>
