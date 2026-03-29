@@ -1,4 +1,4 @@
-**CHECKER DE CC BY JORGE BARBA**
+**CHECKER DE CC BY COOL KING**
 
 
 - [x] infobin
@@ -17,12 +17,9 @@
 
 ```
 
-git clone https://github.com/barba99/cc_checher ;
-cd cc_checher;
-python ccgen*
-```
-
-
+git clone https://github.com/brirodriAQP/Generador;
+cd Generador;
+pythonn ccgen*
 
 ## uso 
 
@@ -41,6 +38,5 @@ python ccgen*
         
 <div class="copyright">
             
-&copy; 2021 *Jorge Barba*. *``Todos los derechos reservados``.*
       
 </div>
