@@ -1,0 +1,2 @@
+# Generador
+Script Termux
