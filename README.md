@@ -17,8 +17,8 @@
 
 ```
 
-git clone https://github.com/barba99/cc_checher ;
-cd cc_checher;
+git clone https://github.com/brirodriAQP/Generador ;
+cd Generador;
 python ccgen*
 ```
 
