@@ -36,7 +36,6 @@ python ccgen*
 <!-- Contacts section end -->
         
         
-<div class="copyright">
             
       
 </div>
